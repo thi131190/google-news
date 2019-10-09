@@ -5,7 +5,7 @@ Created with love by: <Hang & Thi>
 
 ## Netlify link
 
-[Demo here]()
+[Demo here](https://nervous-goldberg-d832a3.netlify.com/)
 
 
 ## User Stories
