@@ -1,6 +1,6 @@
 # CoderSchool FTW - * GOOGLE NEWS *
 
-Created with love by: <Your Name Here>
+Created with love by: <Hang & Thi>
   
 
 ## Netlify link
@@ -12,18 +12,18 @@ Created with love by: <Your Name Here>
 
 Required Stories 🚦🎯🍾
 
-* [ ] The user can see a list of the 20 latest top news stories, loaded dynamically from newsapi.
-* [ ] For each story, the user sees a headline, the source, a link to more, and an image.
-* [ ] The user can see the total number of stories currently shown.
+* [x] The user can see a list of the 20 latest top news stories, loaded dynamically from newsapi.
+* [x] For each story, the user sees a headline, the source, a link to more, and an image.
+* [x] The user can see the total number of stories currently shown.
 
 
 Optional Stories
 
 Feel free to experiment with stories here. They are roughly sorted in order of estimated difficulty.
 
-* [ ] The user can click a link at the bottom of the page to load the next 20 stories. The page should not refresh; the stories should simply be added to the bottom.
-* [ ] The user can see an updated number of stories currently shown.
-* [ ] The user can see how long ago the story was published in a human-friendly format; e.g. "15 minutes ago". To accomplish this, we recommend you use momentjs. Please load it into your page using cdnjs or jsdelivr (these are called CDNs).
+* [x] The user can click a link at the bottom of the page to load the next 20 stories. The page should not refresh; the stories should simply be added to the bottom.
+* [x] The user can see an updated number of stories currently shown.
+* [x] The user can see how long ago the story was published in a human-friendly format; e.g. "15 minutes ago". To accomplish this, we recommend you use momentjs. Please load it into your page using cdnjs or jsdelivr (these are called CDNs).
 
 Rocket Challenge 1: Sources
 * [ ] The user can see a checkbox for every unique source of the articles loaded. For example, if the user loads four stories, and two stories are from bbc-news, one from cnn, and one from spiegel-de, the user would see three checkboxes: bbc-news, cnn, spiegel-de.
@@ -38,7 +38,7 @@ Rocket Challenge 2: Categories
 
 ## License
 
-    Copyright [2019] [name of copyright owner]
+    Copyright [2019] [Hang & Thi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
