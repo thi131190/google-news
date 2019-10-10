@@ -2,7 +2,7 @@ let news = [];
 let page = 1;
 async function fetchNews() {
 	let API_KEY = 'a23ef4dd350d42109aeedbc2fbaf292c';
-	let url = `https://newsapi.org/v2/everything?q=news&apiKey=${API_KEY}&page=${page}`;
+	let url = `https://newsapi.org/v2/everything?q=news&apiKey=${API_KEY}&page=${page}&pageSize=15`;
 	let result = await fetch(url);
 	let data = await result.json();
 	console.log(data);
@@ -36,5 +36,3 @@ function renderNews(newsList) {
 function renderCount(articles) {
 	document.getElementById('count').innerHTML = articles.length;
 }
-
-fetchNews();
